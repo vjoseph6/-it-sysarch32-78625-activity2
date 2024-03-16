@@ -9,7 +9,8 @@ function App() {
     <>
        <Header/>
        <Footer/>
-       <Student/>  
+       <Content/>  
+      
     </> 
   );
   
